@@ -1,0 +1,16 @@
+{
+  "name": "polkadot-test-simple",
+  "version": "0.0.1",
+  "description": "Polkadot tx sender test",
+  "main": "test.js",
+  "scripts": {
+    "test": "node src/test.js"
+  },
+  "author": "boogerwooger",
+  "license": "MIT",
+  "dependencies": {
+    "@polkadot/api": "^0.77.1",
+    "@polkadot/keyring": "^0.76.1",
+    "polkadot": "^1.0.0"
+  }
+}
