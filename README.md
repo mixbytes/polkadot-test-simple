@@ -8,5 +8,5 @@ Tests of transaction signing, account generation, transfers
 
 2. ```cd polkadot-test-simple && npm install```
 
-3. ```node src/test.js`
+3. ```node src/test.js```
 
